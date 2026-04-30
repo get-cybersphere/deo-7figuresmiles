@@ -1,0 +1,64 @@
+[
+  {
+    "id": "cap_moadkjaq_bbdp70",
+    "selector": "h2.heading-style-h2",
+    "label": "Don't Take it From Us, Take it From Our …",
+    "tag": "h2",
+    "url": "https://www.daydream.dental/",
+    "title": "Dental Billing & RCM Solutions | DayDream Dental",
+    "timestamp": "2026-04-22T18:17:21.074Z",
+    "innerText": "Don't Take it From Us, Take it From Our Clients",
+    "outerHTML": "<h2 class=\"heading-style-h2\">Don't Take it From Us, Take it From Our Clients</h2>",
+    "rect": {
+      "x": 304,
+      "y": 203,
+      "width": 1120,
+      "height": 49
+    },
+    "computedStyles": {
+      "display": "block",
+      "width": "1120px",
+      "height": "49px",
+      "border": "0px none rgb(23, 51, 45)",
+      "box-sizing": "border-box",
+      "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "color": "rgb(23, 51, 45)",
+      "font-family": "Haffertrial, Arial, sans-serif",
+      "font-size": "49px",
+      "line-height": "49px",
+      "text-align": "center",
+      "text-decoration": "none",
+      "transition": "all"
+    },
+    "cssRules": [
+      {
+        "selector": "*",
+        "css": "box-sizing: border-box;"
+      },
+      {
+        "selector": "h1, h2, h3, h4, h5, h6",
+        "css": "margin-bottom: 10px; font-weight: 700;"
+      },
+      {
+        "selector": "h2",
+        "css": "margin-top: 20px; font-size: 32px; line-height: 36px;"
+      },
+      {
+        "selector": "h2",
+        "css": "font-size: var(--heding--h2); margin-top: 0px; margin-bottom: 0px; font-weight: 400; line-height: 1;"
+      },
+      {
+        "selector": ".heading-style-h2",
+        "css": "font-size: var(--heding--h2); line-height: 1;"
+      },
+      {
+        "selector": "*, ::after, ::before",
+        "css": "--sj-tw-border-spacing-x: 0; --sj-tw-border-spacing-y: 0; --sj-tw-translate-x: 0; --sj-tw-translate-y: 0; --sj-tw-rotate: 0; --sj-tw-skew-x: 0; --sj-tw-skew-y: 0; --sj-tw-scale-x: 1; --sj-tw-scale-y: 1; --sj-tw-pan-x: ; --sj-tw-pan-y: ; --sj-tw-pinch-zoom: ; --sj-tw-scroll-snap-strictness: proximity; --sj-tw-gradient-from-position: ; --sj-tw-gradient-via-position: ; --sj-tw-gradient-to-position: ; --sj-tw-ordinal: ; --sj-tw-slashed-zero: ; --sj-tw-numeric-figure: ; --sj-tw-numeric-spacing: ; --sj-tw-numeric-fraction: ; --sj-tw-ring-inset: ; --sj-tw-ring-offset-width: 0px; --sj-tw-ring-offset-color: #fff; --sj-tw-ring-color: rgba(59,130,246,.5); --sj-tw-ring-offset-shadow: 0 0 #0000; --sj-tw-ring-shadow: 0 0 #0000; --sj-tw-shadow: 0 0 #0000; --sj-tw-shadow-colored: 0 0 #0000; --sj-tw-blur: ; --sj-tw-brightness: ; --sj-tw-contrast: ; --sj-tw-grayscale: ; --sj-tw-hue-rotate: ; --sj-tw-invert: ; --sj-tw-saturate: ; --sj-tw-sepia: ; --sj-tw-drop-shadow: ; --sj-tw-backdrop-blur: ; --sj-tw-backdrop-brightness: ; --sj-tw-backdrop-contrast: ; --sj-tw-backdrop-grayscale: ; --sj-tw-backdrop-hue-rotate: ; --sj-tw-backdrop-invert: ; --sj-tw-backdrop-opacity: ; --sj-tw-backdrop-saturate: ; --sj-tw-backdrop-sepia: ;"
+      },
+      {
+        "selector": "h1, h2, h3, h4, h5, h6",
+        "css": "text-wrap: balance;"
+      }
+    ]
+  }
+]

@@ -1,0 +1,176 @@
+[
+  {
+    "id": "cap_moabggeg_ohu9y3",
+    "selector": "header.sticky",
+    "label": "What we do Platform Who we serve Thesis …",
+    "tag": "header",
+    "url": "https://bitewing.ai/",
+    "title": "Bitewing — Payer intelligence for DSOs",
+    "timestamp": "2026-04-22T17:18:11.464Z",
+    "innerText": "What we do\nPlatform\nWho we serve\nThesis\nTrust\nBook a walkthrough",
+    "outerHTML": "<header class=\"sticky top-0 z-50 transition-colors border-b bg-cream-100/60 backdrop-blur-[6px] border-transparent\"><div class=\"max-w-[1440px] mx-auto flex items-center justify-between px-6 sm:px-8 py-3.5\"><a href=\"/\" class=\"flex items-center gap-2 shrink-0\" aria-label=\"Bitewing — home\"><img src=\"/wordmark.svg\" alt=\"Bitewing\" height=\"22\" style=\"height:22px;width:auto\" class=\"\"></a><nav class=\"hidden lg:flex items-center gap-1 font-body text-[14px]\"><a href=\"/#mechanism\" class=\"px-3 py-2 rounded-lg text-ink-primary/80 hover:text-ink-primary hover:bg-ink-primary/5 transition-colors\">What we do</a><a href=\"/#platform\" class=\"px-3 py-2 rounded-lg text-ink-primary/80 hover:text-ink-primary hover:bg-ink-primary/5 transition-colors\">Platform</a><a href=\"/#personas\" class=\"px-3 py-2 rounded-lg text-ink-primary/80 hover:text-ink-primary hover:bg-ink-primary/5 transition-colors\">Who we serve</a><a href=\"/#thesis\" class=\"px-3 py-2 rounded-lg text-ink-primary/80 hover:text-ink-primary hover:bg-ink-primary/5 transition-colors\">Thesis</a><a href=\"/trust\" class=\"px-3 py-2 rounded-lg text-ink-primary/80 hover:text-ink-primary hover:bg-ink-primary/5 transition-colors\">Trust</a></nav><div class=\"flex items-center gap-2\"><a class=\"btn btn--mint shrink-0\" href=\"/book\"><span>Book a walkthrough</span><svg width=\"12\" height=\"12\" viewBox=\"0 0 10 10\" fill=\"none\" aria-hidden=\"true\"><path d=\"M1 5h7M5.5 2l3 3-3 3\" stroke=\"currentColor\" stroke-width=\"1.6\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path></svg></a><button type=\"button\" aria-label=\"Open menu\" aria-expanded=\"false\" class=\"lg:hidden p-2 rounded-md hover:bg-ink-primary/5 transition-colors\"><svg width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" aria-hidden=\"true\"><path d=\"M3 6h14M3 10h14M3 14h14\" stroke=\"currentColor\" stroke-width=\"1.6\" stroke-linecap=\"round\"></path></svg></button></div></div></header>",
+    "rect": {
+      "x": 0,
+      "y": 40,
+      "width": 1720,
+      "height": 79
+    },
+    "computedStyles": {
+      "display": "block",
+      "position": "sticky",
+      "top": "0px",
+      "width": "1720px",
+      "height": "79.4688px",
+      "box-sizing": "border-box",
+      "background": "oklab(0.950789 0.00193301 0.0199708 / 0.6) none repeat scroll 0% 0% / auto padding-box border-box",
+      "color": "rgb(35, 31, 31)",
+      "font-family": "Geist, \"Geist Fallback\"",
+      "font-size": "16px",
+      "line-height": "24.8px",
+      "text-decoration": "none",
+      "z-index": "50",
+      "transition": "color 0.15s cubic-bezier(0.4, 0, 0.2, 1), background-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), border-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), outline-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), text-decoration-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), fill 0.15s cubic-bezier(0.4, 0, 0.2, 1), stroke 0.15s cubic-bezier(0.4, 0, 0.2, 1), --tw-gradient-from 0.15s cubic-bezier(0.4, 0, 0.2, 1), --tw-gradient-via 0.15s cubic-bezier(0.4, 0, 0.2, 1), --tw-gradient-to 0.15s cubic-bezier(0.4, 0, 0.2, 1)"
+    },
+    "cssRules": [
+      {
+        "selector": "*, ::before, ::after, ::backdrop",
+        "css": "--tw-translate-x: 0; --tw-translate-y: 0; --tw-translate-z: 0; --tw-rotate-x: initial; --tw-rotate-y: initial; --tw-rotate-z: initial; --tw-skew-x: initial; --tw-skew-y: initial; --tw-space-y-reverse: 0; --tw-divide-y-reverse: 0; --tw-border-style: solid; --tw-gradient-position: initial; --tw-gradient-from: #0000; --tw-gradient-via: #0000; --tw-gradient-to: #0000; --tw-gradient-stops: initial; --tw-gradient-via-stops: initial; --tw-gradient-from-position: 0%; --tw-gradient-via-position: 50%; --tw-gradient-to-position: 100%; --tw-leading: initial; --tw-font-weight: initial; --tw-tracking: initial; --tw-shadow: 0 0 #0000; --tw-shadow-color: initial; --tw-shadow-alpha: 100%; --tw-inset-shadow: 0 0 #0000; --tw-inset-shadow-color: initial; --tw-inset-shadow-alpha: 100%; --tw-ring-color: initial; --tw-ring-shadow: 0 0 #0000; --tw-inset-ring-color: initial; --tw-inset-ring-shadow: 0 0 #0000; --tw-ring-inset: initial; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-offset-shadow: 0 0 #0000; --tw-blur: initial; --tw-brightness: initial; --tw-contrast: initial; --tw-grayscale: initial; --tw-hue-rotate: initial; --tw-invert: initial; --tw-opacity: initial; --tw-saturate: initial; --tw-sepia: initial; --tw-drop-shadow: initial; --tw-drop-shadow-color: initial; --tw-drop-shadow-alpha: 100%; --tw-drop-shadow-size: initial; --tw-backdrop-blur: initial; --tw-backdrop-brightness: initial; --tw-backdrop-contrast: initial; --tw-backdrop-grayscale: initial; --tw-backdrop-hue-rotate: initial; --tw-backdrop-invert: initial; --tw-backdrop-opacity: initial; --tw-backdrop-saturate: initial; --tw-backdrop-sepia: initial; --tw-duration: initial; --tw-ease: initial; --tw-divide-x-reverse: 0;",
+        "media": "(((-webkit-hyphens:none)) and (not (margin-trim:inline))) or ((-moz-orient:inline) and (not (color:rgb(from red r g b))))"
+      },
+      {
+        "selector": "*, ::after, ::before, ::backdrop",
+        "css": "box-sizing: border-box; border: 0px solid; margin: 0px; padding: 0px;"
+      },
+      {
+        "selector": ".sticky",
+        "css": "position: sticky;"
+      },
+      {
+        "selector": ".top-0",
+        "css": "top: calc(var(--spacing) * 0);"
+      },
+      {
+        "selector": ".z-50",
+        "css": "z-index: 50;"
+      },
+      {
+        "selector": ".border-b",
+        "css": "border-bottom-style: var(--tw-border-style); border-bottom-width: 1px;"
+      },
+      {
+        "selector": ".border-transparent",
+        "css": "border-color: rgba(0, 0, 0, 0);"
+      },
+      {
+        "selector": ".bg-cream-100\\/60",
+        "css": "background-color: rgba(245, 238, 224, 0.6);"
+      },
+      {
+        "selector": ".bg-cream-100\\/60",
+        "css": "background-color: color-mix(in oklab, var(--color-cream-100) 60%, transparent);",
+        "media": "(color:color-mix(in lab, red, red))"
+      },
+      {
+        "selector": ".backdrop-blur-\\[6px\\]",
+        "css": "--tw-backdrop-blur: blur(6px); backdrop-filter: var(--tw-backdrop-blur,) var(--tw-backdrop-brightness,) var(--tw-backdrop-contrast,) var(--tw-backdrop-grayscale,) var(--tw-backdrop-hue-rotate,) var(--tw-backdrop-invert,) var(--tw-backdrop-opacity,) var(--tw-backdrop-saturate,) var(--tw-backdrop-sepia,);"
+      },
+      {
+        "selector": ".transition-colors",
+        "css": "transition-property: color, background-color, border-color, outline-color, text-decoration-color, fill, stroke, --tw-gradient-from, --tw-gradient-via, --tw-gradient-to; transition-timing-function: var(--tw-ease,var(--default-transition-timing-function)); transition-duration: var(--tw-duration,var(--default-transition-duration));"
+      },
+      {
+        "selector": "*, ::before, ::after",
+        "css": "transition-duration: 0.01ms !important; animation-duration: 0.01ms !important; animation-iteration-count: 1 !important;",
+        "media": "(prefers-reduced-motion: reduce)"
+      }
+    ]
+  },
+  {
+    "id": "cap_moabgtkd_gcvn2u",
+    "selector": "section#hero",
+    "label": "§ PAYER INTELLIGENCE FOR DSOS You have a…",
+    "tag": "section",
+    "url": "https://bitewing.ai/",
+    "title": "Bitewing — Payer intelligence for DSOs",
+    "timestamp": "2026-04-22T17:18:28.525Z",
+    "innerText": "§ PAYER INTELLIGENCE FOR DSOS\nYou have already\nearned this money.\n\nCompare every paid claim to the fee schedule that governed the service date. When a payer underpays through leased-network routing, schedule drift, credentialing errors, or bundling logic, Bitewing surfaces the variance and drafts the appeal packet — with the contract line, EOB line, and variance math already cited.\n\nBook a walkthrough\nSee a sample variance report\nREAD-ONLY\n·\nNO PMS REPLACEMENT\n·\nBAA ON FILE\n·\nFIRST VARIANCE REPORT IN 14 DAYS\nATTRIBUTION · CLAIM 0291-E\nCONTRACTED\n$890\n→\n$651\nLeased\nAetna PPO → Connection Dental\nVariance ledger · this week\nSAMPLE · 12 CLAIMS\nCLAIM\tCODE\tPAYER\tCONTRACTED\tPAID\tΔ\tSTATUS\n0291-E\tD2740\tAetna PPO\t$890\t$651\t−$239\tSuppressed\n0287-A\tD2750\tCigna DPPO\t$920\t$920\t$0\tMatch\n0284-C\tD4341\tDelta Premier\t$214\t$189\t−$25\tSuppressed\n0281-F\tD0150\tUnited Concordia\t$88\t$88\t$0\tMatch\n0277-B\tD2391\tMetLife PDP+\t$182\t$182\t$0\tMatch\nILLUSTRATIVE · SAMPLE DATA\nSUPPRESSED REVENUE · THIS WEEK\n$82,430\n\n12 claims auto-bundled with cited contract lines.\n\nILLUSTRATIVE · SAMPLE DATA",
+    "outerHTML": "<section id=\"hero\" class=\"relative overflow-hidden pt-14 pb-20 md:pt-20 md:pb-28 atm-cream grain\"><div class=\"shell\"><div class=\"grid grid-cols-1 lg:grid-cols-[minmax(0,1fr)_minmax(0,1.15fr)] gap-12 lg:gap-14 items-center\"><div class=\"max-w-[580px]\"><div class=\"eyebrow\" style=\"opacity: 1; transform: none;\">§ Payer intelligence for DSOs</div><h1 class=\"heading-font mt-6 text-[44px] sm:text-[56px] lg:text-[68px] xl:text-[76px] leading-[1.02] font-semibold text-ink-primary\" style=\"opacity: 1; transform: none;\"><span class=\"block\">You have already</span><span class=\"block\">earned this money.</span></h1><p class=\"mt-6 text-[17px] sm:text-[18px] leading-relaxed text-ink-secondary max-w-[54ch]\" style=\"opacity: 1; transform: none;\">Compare every paid claim to the fee schedule that governed the service date. When a payer underpays through leased-network routing, schedule drift, credentialing errors, or bundling logic, Bitewing surfaces the variance and drafts the appeal packet — with the contract line, EOB line, and variance math already cited.</p><div class=\"mt-9 flex flex-wrap items-center gap-3\" style=\"opacity: 1; transform: none;\"><a class=\"btn btn--mint btn--lg\" href=\"/book\"><span>Book a walkthrough</span><svg width=\"12\" height=\"12\" viewBox=\"0 0 10 10\" fill=\"none\" aria-hidden=\"true\"><path d=\"M1 5h7M5.5 2l3 3-3 3\" stroke=\"currentColor\" stroke-width=\"1.6\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path></svg></a><a class=\"btn btn--outline btn--lg\" href=\"/sample\">See a sample variance report</a></div><div class=\"mt-9 pt-7 border-t border-rule-editorial-strong flex flex-wrap gap-x-6 gap-y-2 text-[12px] mono-font text-ink-secondary uppercase tracking-[0.08em]\" style=\"opacity: 1; transform: none;\"><span>Read-only</span><span class=\"text-ink-tertiary\">·</span><span>No PMS replacement</span><span class=\"text-ink-tertiary\">·</span><span>BAA on file</span><span class=\"text-ink-tertiary\">·</span><span>First variance report in 14 days</span></div></div><div class=\"relative mt-2 lg:mt-0\"><div class=\"relative w-full mx-auto max-w-[640px] lg:max-w-none h-[670px]\"><div aria-hidden=\"true\" class=\"absolute inset-[-6%] rounded-[40px] blur-[14px] opacity-70 pointer-events-none\" style=\"background:radial-gradient(50% 45% at 32% 32%, rgba(201,146,63,0.45), transparent 70%),radial-gradient(55% 55% at 78% 65%, rgba(47,203,139,0.35), transparent 72%)\"></div><div class=\"absolute top-[10px] left-0 sm:left-[1%] w-[238px] z-30 p-4 rounded-2xl bg-white border border-[rgba(35,31,31,0.06)]\" style=\"transform: none; box-shadow: rgba(14, 20, 32, 0.14) 0px 18px 40px, rgba(14, 20, 32, 0.08) 0px 6px 12px; opacity: 1;\"><div class=\"mono-font text-[10px] tracking-[0.14em] uppercase text-ink-tertiary\">Attribution · Claim <!-- -->0291-E</div><div class=\"mt-3 flex items-center justify-between\"><span class=\"mono-font text-[10px] tracking-[0.14em] uppercase text-ink-tertiary\">Contracted</span><span class=\"heading-font font-semibold text-[18px] num\">$<!-- -->890</span></div><div class=\"mt-1.5 flex items-center justify-between\"><span class=\"text-coral-500 font-semibold\">→</span><span class=\"heading-font font-semibold text-[18px] num text-coral-500\">$<!-- -->651</span></div><div class=\"mt-3 flex items-center justify-between gap-2\"><span class=\"chip chip--coral chip--dot\">Leased</span><span class=\"mono-font text-[9.5px] text-ink-tertiary text-right leading-tight\">Aetna PPO<!-- --> → <!-- -->Connection Dental</span></div></div><div class=\"absolute top-[168px] left-0 right-0 z-20 p-5 rounded-[18px] bg-white border border-[rgba(35,31,31,0.06)]\" style=\"box-shadow: rgba(14, 20, 32, 0.18) 0px 24px 48px, rgba(14, 20, 32, 0.1) 0px 8px 16px; opacity: 1; transform: none;\"><div class=\"flex items-center justify-between mb-3\"><div class=\"heading-font font-semibold text-[14px]\">Variance ledger · this week</div><div class=\"mono-font text-[10px] tracking-[0.14em] text-ink-tertiary flex items-center\"><span class=\"inline-block w-1.5 h-1.5 rounded-full bg-mint-500 mr-1.5 animate-pulse\"></span>SAMPLE · 12 CLAIMS</div></div><div class=\"overflow-hidden\"><table class=\"w-full text-left text-[12px] border-collapse\"><thead><tr class=\"text-ink-tertiary\"><th class=\"mono-font text-[10px] font-medium uppercase tracking-[0.1em] py-2 pr-2 border-b border-rule-editorial\">Claim</th><th class=\"mono-font text-[10px] font-medium uppercase tracking-[0.1em] py-2 pr-2 border-b border-rule-editorial\">Code</th><th class=\"mono-font text-[10px] font-medium uppercase tracking-[0.1em] py-2 pr-2 border-b border-rule-editorial hidden sm:table-cell\">Payer</th><th class=\"mono-font text-[10px] font-medium uppercase tracking-[0.1em] py-2 pr-2 text-right border-b border-rule-editorial\">Contracted</th><th class=\"mono-font text-[10px] font-medium uppercase tracking-[0.1em] py-2 pr-2 text-right border-b border-rule-editorial\">Paid</th><th class=\"mono-font text-[10px] font-medium uppercase tracking-[0.1em] py-2 pr-2 text-right border-b border-rule-editorial\">Δ</th><th class=\"mono-font text-[10px] font-medium uppercase tracking-[0.1em] py-2 text-right border-b border-rule-editorial\">Status</th></tr></thead><tbody><tr class=\"bg-coral-500/[0.06]\"><td class=\"mono-font text-[11.5px] text-ink-secondary py-2.5 pr-2 border-b border-rule-editorial\">0291-E</td><td class=\"mono-font text-[11px] text-ink-secondary py-2.5 pr-2 border-b border-rule-editorial\">D2740</td><td class=\"text-[11.5px] py-2.5 pr-2 border-b border-rule-editorial hidden sm:table-cell\">Aetna PPO</td><td class=\"num text-[12px] py-2.5 pr-2 border-b border-rule-editorial\">$890</td><td class=\"num text-[12px] py-2.5 pr-2 border-b border-rule-editorial\">$651</td><td class=\"num text-[12px] py-2.5 pr-2 border-b border-rule-editorial text-coral-500 font-medium\">−$239</td><td class=\"text-right py-2.5 border-b border-rule-editorial\"><span class=\"chip chip--coral chip--dot text-[10px]\">Suppressed</span></td></tr><tr class=\"\"><td class=\"mono-font text-[11.5px] text-ink-secondary py-2.5 pr-2 border-b border-rule-editorial\">0287-A</td><td class=\"mono-font text-[11px] text-ink-secondary py-2.5 pr-2 border-b border-rule-editorial\">D2750</td><td class=\"text-[11.5px] py-2.5 pr-2 border-b border-rule-editorial hidden sm:table-cell\">Cigna DPPO</td><td class=\"num text-[12px] py-2.5 pr-2 border-b border-rule-editorial\">$920</td><td class=\"num text-[12px] py-2.5 pr-2 border-b border-rule-editorial\">$920</td><td class=\"num text-[12px] py-2.5 pr-2 border-b border-rule-editorial text-ink-tertiary\">$0</td><td class=\"text-right py-2.5 border-b border-rule-editorial\"><span class=\"chip chip--mint chip--dot text-[10px]\">Match</span></td></tr><tr class=\"bg-coral-500/[0.06]\"><td class=\"mono-font text-[11.5px] text-ink-secondary py-2.5 pr-2 border-b border-rule-editorial\">0284-C</td><td class=\"mono-font text-[11px] text-ink-secondary py-2.5 pr-2 border-b border-rule-editorial\">D4341</td><td class=\"text-[11.5px] py-2.5 pr-2 border-b border-rule-editorial hidden sm:table-cell\">Delta Premier</td><td class=\"num text-[12px] py-2.5 pr-2 border-b border-rule-editorial\">$214</td><td class=\"num text-[12px] py-2.5 pr-2 border-b border-rule-editorial\">$189</td><td class=\"num text-[12px] py-2.5 pr-2 border-b border-rule-editorial text-coral-500 font-medium\">−$25</td><td class=\"text-right py-2.5 border-b border-rule-editorial\"><span class=\"chip chip--coral chip--dot text-[10px]\">Suppressed</span></td></tr><tr class=\"\"><td class=\"mono-font text-[11.5px] text-ink-secondary py-2.5 pr-2 border-b border-rule-editorial\">0281-F</td><td class=\"mono-font text-[11px] text-ink-secondary py-2.5 pr-2 border-b border-rule-editorial\">D0150</td><td class=\"text-[11.5px] py-2.5 pr-2 border-b border-rule-editorial hidden sm:table-cell\">United Concordia</td><td class=\"num text-[12px] py-2.5 pr-2 border-b border-rule-editorial\">$88</td><td class=\"num text-[12px] py-2.5 pr-2 border-b border-rule-editorial\">$88</td><td class=\"num text-[12px] py-2.5 pr-2 border-b border-rule-editorial text-ink-tertiary\">$0</td><td class=\"text-right py-2.5 border-b border-rule-editorial\"><span class=\"chip chip--mint chip--dot text-[10px]\">Match</span></td></tr><tr class=\"\"><td class=\"mono-font text-[11.5px] text-ink-secondary py-2.5 pr-2 border-b border-rule-editorial\">0277-B</td><td class=\"mono-font text-[11px] text-ink-secondary py-2.5 pr-2 border-b border-rule-editorial\">D2391</td><td class=\"text-[11.5px] py-2.5 pr-2 border-b border-rule-editorial hidden sm:table-cell\">MetLife PDP+</td><td class=\"num text-[12px] py-2.5 pr-2 border-b border-rule-editorial\">$182</td><td class=\"num text-[12px] py-2.5 pr-2 border-b border-rule-editorial\">$182</td><td class=\"num text-[12px] py-2.5 pr-2 border-b border-rule-editorial text-ink-tertiary\">$0</td><td class=\"text-right py-2.5 border-b border-rule-editorial\"><span class=\"chip chip--mint chip--dot text-[10px]\">Match</span></td></tr></tbody></table></div><div class=\"mt-3 mono-font text-[9.5px] tracking-[0.14em] uppercase text-ink-tertiary\">Illustrative · sample data</div></div><div class=\"absolute bottom-[6px] right-0 sm:right-[1%] w-[262px] z-30 p-5 rounded-2xl bg-white border border-[rgba(35,31,31,0.06)]\" style=\"transform: none; box-shadow: rgba(14, 20, 32, 0.14) 0px 18px 40px, rgba(14, 20, 32, 0.08) 0px 6px 12px; opacity: 1;\"><div class=\"mono-font text-[10px] tracking-[0.14em] uppercase text-ink-tertiary\">Suppressed revenue · this week</div><div class=\"heading-font font-semibold text-[34px] leading-none mt-2 tracking-tight\"><span class=\"\">$82,430</span></div><p class=\"text-[12px] text-ink-secondary mt-2 leading-snug\">12 claims auto-bundled with cited contract lines.</p><div class=\"mt-3 mono-font text-[9.5px] tracking-[0.14em] uppercase text-ink-tertiary\">Illustrative · sample data</div></div></div></div></div></div></section>",
+    "rect": {
+      "x": 0,
+      "y": 120,
+      "width": 1720,
+      "height": 862
+    },
+    "computedStyles": {
+      "display": "block",
+      "position": "relative",
+      "top": "0px",
+      "right": "0px",
+      "bottom": "0px",
+      "left": "0px",
+      "width": "1720px",
+      "height": "862px",
+      "padding": "80px 0px 112px",
+      "border": "0px solid rgb(35, 31, 31)",
+      "box-sizing": "border-box",
+      "background": "radial-gradient(78% 60% at 18% 22%, rgba(201, 146, 63, 0.18), rgba(0, 0, 0, 0) 70%) repeat scroll 0% 0% / auto padding-box border-box, radial-gradient(68% 54% at 92% 62%, rgba(139, 163, 188, 0.22), rgba(0, 0, 0, 0) 72%) repeat scroll 0% 0% / auto padding-box border-box, rgba(0, 0, 0, 0) linear-gradient(rgb(250, 245, 234), rgb(245, 238, 224) 60%, rgb(239, 231, 212)) repeat scroll 0% 0% / auto padding-box border-box",
+      "color": "rgb(35, 31, 31)",
+      "font-family": "Geist, \"Geist Fallback\"",
+      "font-size": "16px",
+      "line-height": "24.8px",
+      "text-decoration": "none",
+      "overflow": "hidden",
+      "transition": "all"
+    },
+    "cssRules": [
+      {
+        "selector": "*, ::before, ::after, ::backdrop",
+        "css": "--tw-translate-x: 0; --tw-translate-y: 0; --tw-translate-z: 0; --tw-rotate-x: initial; --tw-rotate-y: initial; --tw-rotate-z: initial; --tw-skew-x: initial; --tw-skew-y: initial; --tw-space-y-reverse: 0; --tw-divide-y-reverse: 0; --tw-border-style: solid; --tw-gradient-position: initial; --tw-gradient-from: #0000; --tw-gradient-via: #0000; --tw-gradient-to: #0000; --tw-gradient-stops: initial; --tw-gradient-via-stops: initial; --tw-gradient-from-position: 0%; --tw-gradient-via-position: 50%; --tw-gradient-to-position: 100%; --tw-leading: initial; --tw-font-weight: initial; --tw-tracking: initial; --tw-shadow: 0 0 #0000; --tw-shadow-color: initial; --tw-shadow-alpha: 100%; --tw-inset-shadow: 0 0 #0000; --tw-inset-shadow-color: initial; --tw-inset-shadow-alpha: 100%; --tw-ring-color: initial; --tw-ring-shadow: 0 0 #0000; --tw-inset-ring-color: initial; --tw-inset-ring-shadow: 0 0 #0000; --tw-ring-inset: initial; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-offset-shadow: 0 0 #0000; --tw-blur: initial; --tw-brightness: initial; --tw-contrast: initial; --tw-grayscale: initial; --tw-hue-rotate: initial; --tw-invert: initial; --tw-opacity: initial; --tw-saturate: initial; --tw-sepia: initial; --tw-drop-shadow: initial; --tw-drop-shadow-color: initial; --tw-drop-shadow-alpha: 100%; --tw-drop-shadow-size: initial; --tw-backdrop-blur: initial; --tw-backdrop-brightness: initial; --tw-backdrop-contrast: initial; --tw-backdrop-grayscale: initial; --tw-backdrop-hue-rotate: initial; --tw-backdrop-invert: initial; --tw-backdrop-opacity: initial; --tw-backdrop-saturate: initial; --tw-backdrop-sepia: initial; --tw-duration: initial; --tw-ease: initial; --tw-divide-x-reverse: 0;",
+        "media": "(((-webkit-hyphens:none)) and (not (margin-trim:inline))) or ((-moz-orient:inline) and (not (color:rgb(from red r g b))))"
+      },
+      {
+        "selector": "*, ::after, ::before, ::backdrop",
+        "css": "box-sizing: border-box; border: 0px solid; margin: 0px; padding: 0px;"
+      },
+      {
+        "selector": "section[id]",
+        "css": "scroll-margin-top: 96px;"
+      },
+      {
+        "selector": ".atm-cream",
+        "css": "background: radial-gradient(78% 60% at 18% 22%, #c9923f2e, transparent 70%), radial-gradient(68% 54% at 92% 62%, #8ba3bc38, transparent 72%), linear-gradient(180deg, var(--color-cream-50), var(--color-cream-100) 60%, var(--color-cream-200)); position: relative;"
+      },
+      {
+        "selector": ".relative",
+        "css": "position: relative;"
+      },
+      {
+        "selector": ".overflow-hidden",
+        "css": "overflow: hidden;"
+      },
+      {
+        "selector": ".pt-14",
+        "css": "padding-top: calc(var(--spacing) * 14);"
+      },
+      {
+        "selector": ".pb-20",
+        "css": "padding-bottom: calc(var(--spacing) * 20);"
+      },
+      {
+        "selector": ".md\\:pt-20",
+        "css": "padding-top: calc(var(--spacing) * 20);",
+        "media": "(min-width: 48rem)"
+      },
+      {
+        "selector": ".md\\:pb-28",
+        "css": "padding-bottom: calc(var(--spacing) * 28);",
+        "media": "(min-width: 48rem)"
+      },
+      {
+        "selector": "*, ::before, ::after",
+        "css": "transition-duration: 0.01ms !important; animation-duration: 0.01ms !important; animation-iteration-count: 1 !important;",
+        "media": "(prefers-reduced-motion: reduce)"
+      }
+    ]
+  }
+]

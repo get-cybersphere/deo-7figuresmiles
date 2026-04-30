@@ -1,0 +1,88 @@
+[
+  {
+    "id": "cap_moabggeg_ohu9y3",
+    "selector": "header.sticky",
+    "label": "What we do Platform Who we serve Thesis …",
+    "tag": "header",
+    "url": "https://bitewing.ai/",
+    "title": "Bitewing — Payer intelligence for DSOs",
+    "timestamp": "2026-04-22T17:18:11.464Z",
+    "innerText": "What we do\nPlatform\nWho we serve\nThesis\nTrust\nBook a walkthrough",
+    "outerHTML": "<header class=\"sticky top-0 z-50 transition-colors border-b bg-cream-100/60 backdrop-blur-[6px] border-transparent\"><div class=\"max-w-[1440px] mx-auto flex items-center justify-between px-6 sm:px-8 py-3.5\"><a href=\"/\" class=\"flex items-center gap-2 shrink-0\" aria-label=\"Bitewing — home\"><img src=\"/wordmark.svg\" alt=\"Bitewing\" height=\"22\" style=\"height:22px;width:auto\" class=\"\"></a><nav class=\"hidden lg:flex items-center gap-1 font-body text-[14px]\"><a href=\"/#mechanism\" class=\"px-3 py-2 rounded-lg text-ink-primary/80 hover:text-ink-primary hover:bg-ink-primary/5 transition-colors\">What we do</a><a href=\"/#platform\" class=\"px-3 py-2 rounded-lg text-ink-primary/80 hover:text-ink-primary hover:bg-ink-primary/5 transition-colors\">Platform</a><a href=\"/#personas\" class=\"px-3 py-2 rounded-lg text-ink-primary/80 hover:text-ink-primary hover:bg-ink-primary/5 transition-colors\">Who we serve</a><a href=\"/#thesis\" class=\"px-3 py-2 rounded-lg text-ink-primary/80 hover:text-ink-primary hover:bg-ink-primary/5 transition-colors\">Thesis</a><a href=\"/trust\" class=\"px-3 py-2 rounded-lg text-ink-primary/80 hover:text-ink-primary hover:bg-ink-primary/5 transition-colors\">Trust</a></nav><div class=\"flex items-center gap-2\"><a class=\"btn btn--mint shrink-0\" href=\"/book\"><span>Book a walkthrough</span><svg width=\"12\" height=\"12\" viewBox=\"0 0 10 10\" fill=\"none\" aria-hidden=\"true\"><path d=\"M1 5h7M5.5 2l3 3-3 3\" stroke=\"currentColor\" stroke-width=\"1.6\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path></svg></a><button type=\"button\" aria-label=\"Open menu\" aria-expanded=\"false\" class=\"lg:hidden p-2 rounded-md hover:bg-ink-primary/5 transition-colors\"><svg width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" aria-hidden=\"true\"><path d=\"M3 6h14M3 10h14M3 14h14\" stroke=\"currentColor\" stroke-width=\"1.6\" stroke-linecap=\"round\"></path></svg></button></div></div></header>",
+    "rect": {
+      "x": 0,
+      "y": 40,
+      "width": 1720,
+      "height": 79
+    },
+    "computedStyles": {
+      "display": "block",
+      "position": "sticky",
+      "top": "0px",
+      "width": "1720px",
+      "height": "79.4688px",
+      "box-sizing": "border-box",
+      "background": "oklab(0.950789 0.00193301 0.0199708 / 0.6) none repeat scroll 0% 0% / auto padding-box border-box",
+      "color": "rgb(35, 31, 31)",
+      "font-family": "Geist, \"Geist Fallback\"",
+      "font-size": "16px",
+      "line-height": "24.8px",
+      "text-decoration": "none",
+      "z-index": "50",
+      "transition": "color 0.15s cubic-bezier(0.4, 0, 0.2, 1), background-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), border-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), outline-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), text-decoration-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), fill 0.15s cubic-bezier(0.4, 0, 0.2, 1), stroke 0.15s cubic-bezier(0.4, 0, 0.2, 1), --tw-gradient-from 0.15s cubic-bezier(0.4, 0, 0.2, 1), --tw-gradient-via 0.15s cubic-bezier(0.4, 0, 0.2, 1), --tw-gradient-to 0.15s cubic-bezier(0.4, 0, 0.2, 1)"
+    },
+    "cssRules": [
+      {
+        "selector": "*, ::before, ::after, ::backdrop",
+        "css": "--tw-translate-x: 0; --tw-translate-y: 0; --tw-translate-z: 0; --tw-rotate-x: initial; --tw-rotate-y: initial; --tw-rotate-z: initial; --tw-skew-x: initial; --tw-skew-y: initial; --tw-space-y-reverse: 0; --tw-divide-y-reverse: 0; --tw-border-style: solid; --tw-gradient-position: initial; --tw-gradient-from: #0000; --tw-gradient-via: #0000; --tw-gradient-to: #0000; --tw-gradient-stops: initial; --tw-gradient-via-stops: initial; --tw-gradient-from-position: 0%; --tw-gradient-via-position: 50%; --tw-gradient-to-position: 100%; --tw-leading: initial; --tw-font-weight: initial; --tw-tracking: initial; --tw-shadow: 0 0 #0000; --tw-shadow-color: initial; --tw-shadow-alpha: 100%; --tw-inset-shadow: 0 0 #0000; --tw-inset-shadow-color: initial; --tw-inset-shadow-alpha: 100%; --tw-ring-color: initial; --tw-ring-shadow: 0 0 #0000; --tw-inset-ring-color: initial; --tw-inset-ring-shadow: 0 0 #0000; --tw-ring-inset: initial; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-offset-shadow: 0 0 #0000; --tw-blur: initial; --tw-brightness: initial; --tw-contrast: initial; --tw-grayscale: initial; --tw-hue-rotate: initial; --tw-invert: initial; --tw-opacity: initial; --tw-saturate: initial; --tw-sepia: initial; --tw-drop-shadow: initial; --tw-drop-shadow-color: initial; --tw-drop-shadow-alpha: 100%; --tw-drop-shadow-size: initial; --tw-backdrop-blur: initial; --tw-backdrop-brightness: initial; --tw-backdrop-contrast: initial; --tw-backdrop-grayscale: initial; --tw-backdrop-hue-rotate: initial; --tw-backdrop-invert: initial; --tw-backdrop-opacity: initial; --tw-backdrop-saturate: initial; --tw-backdrop-sepia: initial; --tw-duration: initial; --tw-ease: initial; --tw-divide-x-reverse: 0;",
+        "media": "(((-webkit-hyphens:none)) and (not (margin-trim:inline))) or ((-moz-orient:inline) and (not (color:rgb(from red r g b))))"
+      },
+      {
+        "selector": "*, ::after, ::before, ::backdrop",
+        "css": "box-sizing: border-box; border: 0px solid; margin: 0px; padding: 0px;"
+      },
+      {
+        "selector": ".sticky",
+        "css": "position: sticky;"
+      },
+      {
+        "selector": ".top-0",
+        "css": "top: calc(var(--spacing) * 0);"
+      },
+      {
+        "selector": ".z-50",
+        "css": "z-index: 50;"
+      },
+      {
+        "selector": ".border-b",
+        "css": "border-bottom-style: var(--tw-border-style); border-bottom-width: 1px;"
+      },
+      {
+        "selector": ".border-transparent",
+        "css": "border-color: rgba(0, 0, 0, 0);"
+      },
+      {
+        "selector": ".bg-cream-100\\/60",
+        "css": "background-color: rgba(245, 238, 224, 0.6);"
+      },
+      {
+        "selector": ".bg-cream-100\\/60",
+        "css": "background-color: color-mix(in oklab, var(--color-cream-100) 60%, transparent);",
+        "media": "(color:color-mix(in lab, red, red))"
+      },
+      {
+        "selector": ".backdrop-blur-\\[6px\\]",
+        "css": "--tw-backdrop-blur: blur(6px); backdrop-filter: var(--tw-backdrop-blur,) var(--tw-backdrop-brightness,) var(--tw-backdrop-contrast,) var(--tw-backdrop-grayscale,) var(--tw-backdrop-hue-rotate,) var(--tw-backdrop-invert,) var(--tw-backdrop-opacity,) var(--tw-backdrop-saturate,) var(--tw-backdrop-sepia,);"
+      },
+      {
+        "selector": ".transition-colors",
+        "css": "transition-property: color, background-color, border-color, outline-color, text-decoration-color, fill, stroke, --tw-gradient-from, --tw-gradient-via, --tw-gradient-to; transition-timing-function: var(--tw-ease,var(--default-transition-timing-function)); transition-duration: var(--tw-duration,var(--default-transition-duration));"
+      },
+      {
+        "selector": "*, ::before, ::after",
+        "css": "transition-duration: 0.01ms !important; animation-duration: 0.01ms !important; animation-iteration-count: 1 !important;",
+        "media": "(prefers-reduced-motion: reduce)"
+      }
+    ]
+  }
+]
