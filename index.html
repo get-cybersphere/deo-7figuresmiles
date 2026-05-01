@@ -296,6 +296,56 @@
   /* eyebrow centered variant */
   .eyebrow.center { justify-content: center; }
 
+  /* Hero eyebrow — prominent pill variant */
+  .hero-eyebrow-wrap {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+  }
+  .hero-eyebrow {
+    display: inline-flex;
+    align-items: center;
+    gap: 14px;
+    margin: 0 auto 32px;
+    padding: 10px 20px 10px 16px;
+    background: rgba(196, 142, 74, 0.08);
+    border: 1px solid rgba(196, 142, 74, 0.28);
+    border-radius: 999px;
+    font-family: 'Geist Mono', monospace;
+    font-size: 13px;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    color: var(--ink);
+    box-shadow: 0 1px 0 rgba(255,255,255,0.6) inset, 0 1px 2px rgba(60,40,15,0.04);
+  }
+  .hero-eyebrow-mark {
+    font-family: 'Instrument Serif', serif;
+    font-style: italic;
+    color: var(--amber);
+    font-size: 22px;
+    line-height: 1;
+    letter-spacing: 0;
+    transform: translateY(1px);
+  }
+  .hero-eyebrow-text { font-weight: 500; }
+  .hero-eyebrow-text--accent { color: var(--amber); font-weight: 600; }
+  .hero-eyebrow-sep {
+    width: 4px;
+    height: 4px;
+    border-radius: 50%;
+    background: var(--amber);
+    opacity: 0.55;
+  }
+  @media (max-width: 640px) {
+    .hero-eyebrow {
+      font-size: 11px;
+      padding: 8px 14px 8px 12px;
+      gap: 10px;
+      letter-spacing: 0.06em;
+    }
+    .hero-eyebrow-mark { font-size: 18px; }
+  }
+
   /* center hero block */
   .hero-center { text-align: center; display: flex; flex-direction: column; align-items: center; }
   .hero-center .eyebrow { justify-content: center; }
@@ -1145,7 +1195,14 @@
 
 
 
-    <div class="eyebrow" style="justify-content:center;">For DEO members only · Cosmetic practices</div>
+    <div class="hero-eyebrow-wrap">
+      <div class="hero-eyebrow">
+        <span class="hero-eyebrow-mark">§</span>
+        <span class="hero-eyebrow-text">Fire your marketing agency.</span>
+        <span class="hero-eyebrow-sep" aria-hidden="true"></span>
+        <span class="hero-eyebrow-text hero-eyebrow-text--accent">We're your AI growth partner.</span>
+      </div>
+    </div>
 
     <h1 class="head" style="font-size: 32px;">
       Dentistry's First Stanford AI Patient Acquisition System
@@ -1488,7 +1545,7 @@
   const TWEAK_DEFAULTS = /*EDITMODE-BEGIN*/{
     "portraitStyle": "avatar",
     "accentHue": "#C9923F",
-    "warmth": 60
+    "warmth": 0
   }/*EDITMODE-END*/;
 
   const applyTweaks = (t) => {
